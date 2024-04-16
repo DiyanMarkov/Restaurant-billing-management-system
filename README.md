@@ -1,4 +1,28 @@
 # 🧾 Restaurant-billing-management-system 🧾
+## Description
+This project is a "Restaurant Billing System" developed using Python's Tkinter library. It provides functionality for managing orders and calculating bills for items ordered in a restaurant setting. Additionally, it includes a simple calculator feature for performing basic arithmetic calculations.
+
+## Features
+
+* **Menu Management**: *Allows users to input quantities of various menu items ordered by customers.* 
+* **Total Bill Calculation:** *Automatically calculates the total bill amount based on the quantities entered for each menu item.*
+* **Tax Calculation:** *Calculates tax amount based on the total bill.*
+* **Service Cost:** *Includes service cost calculation.*
+* **Clear Functionality:** *Provides options to clear entered quantities and reset the bill calculation.*
+* **Calculator:** *Includes a simple calculator feature integrated within the application for performing arithmetic operations.*
+  
+## How to Use
+Run the Python script restaurant_management.py.
+Enter the quantities of different menu items ordered.
+Click the "Total" button to calculate the total bill.
+Optionally, use the calculator functionality for additional calculations.
+Click the "Clear" button to reset the entered quantities.
+Click the exit button or close the window to exit the application.
+
+## Dependencies
+* Python 3.x
+* Tkinter
+* Pillow (PIL)
 
 ## Preview:
 
